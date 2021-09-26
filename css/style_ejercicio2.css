@@ -1,0 +1,10 @@
+body {
+    background-image: url("../img/imagen.jpg");
+    background-repeat: no-repeat;
+    background-size: 1370px;
+}
+
+a,
+h2 {
+    color: azure;
+}
